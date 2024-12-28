@@ -31,7 +31,7 @@
 
 - Developing an **AI-powered email writer** for the **Google Chrome Built-in AI Challenge**.  
 - Exploring decentralized education sponsorship platforms for social impact.  
-
+- Building AI Based news verifier.
 ---
 
 ## 🏅 Achievements  
