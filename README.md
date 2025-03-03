@@ -9,7 +9,7 @@
 🎓 Currently pursuing **Chemical Engineering** at **IIT Delhi**.  
 💡 Passionate about **web development, AI tools, and innovative solutions**.  
 🏆 Actively participating in **hackathons** and **case study competitions**, including SIH 2024 and TON Hackathon.  
-📚 Mentoring aspiring students through **UnchaAi** and creating engaging content on **Quora** (250k+ views).  
+📚 Mentoring aspiring students through **UnchaAi** and creating engaging content on **Quora** (600k+ views).  
 🌍 Exploring ways to combine **technology** and **social welfare** through decentralized platforms.  
 
 ---
