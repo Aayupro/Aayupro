@@ -23,13 +23,6 @@ I love turning complex ideas into scalable, real-world solutions. 🚀
 ## 🔍 Interests
 AI · Machine Learning · Knowledge Graphs · Full-Stack Apps · Hackathons · Open Source  
 
----
-
-## 🤝 Let’s Connect
-- 🌐 Portfolio: *Coming Soon*  
-- 💼 LinkedIn: [Your LinkedIn link here]  
-- 🐦 Twitter/X: [Your Twitter/X link here]  
-- 📬 Email: [Your email here]  
 
 ---
 
